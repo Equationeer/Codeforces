@@ -5,7 +5,6 @@ int main()
 {
 	long long n;
     cin>>n;
-    
     vector<long long>ans;
     while(n){
        int rem = n%10;
